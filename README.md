@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hey 👋
+My name is Enzo Costa, I'm from Brazil 🇧🇷 and student of analysis and systems development.
 
-<!--
-**EnzoXavier1001/EnzoXavier1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about technology and learning new things.
 
-Here are some ideas to get you started:
+#### 🌍  "O sucesso normalmente vem para quem está ocupado demais para procurar por ele"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  📍 Living in SP 
+-  🖥 Front-end developer
+
+Reach me out 👇🏽
+
+[
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/enzocosta07/)](https://www.linkedin.com/in/enzocosta07/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/enzocx_/)](https://www.instagram.com/enzocx_)
