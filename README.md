@@ -12,3 +12,9 @@ Reach me out 👇🏽
 
 [
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/enzocosta07/)](https://www.linkedin.com/in/enzocosta07/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/enzocx_/)](https://www.instagram.com/enzocx_)
+
+<details>
+  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+  
+  <br>
+</details>
