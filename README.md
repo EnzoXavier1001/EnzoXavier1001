@@ -17,6 +17,6 @@ Reach me out 👇🏽
 
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
-  ![EnzoXavier1001's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoXavier1001&show_icons=true&theme=radical)
+  ![EnzoXavier1001's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzoxavier1001&show_icons=true&theme=radical)
   <br>
 </details>
