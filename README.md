@@ -11,7 +11,7 @@
  
 ### 👯 My passions:
 - 🎶 Musics (I like listen music electronics)
-- 📺 Series (Watching series is one of my hobbies)
+- 📺 Series (Watching series is one of my hobbys)
 - 🎮 Games (Playing games is my favorite hobby)
 
 ### ⚡ Technologies
