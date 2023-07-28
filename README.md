@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, I'm Enzo Costa 👋 <br> Welcome to my profile</h1>
 
 ### 🌻 About me:
- - 🔥 Developer Fullstack Jr at <a href="https://www.linkedin.com/company/summer-comunica-o/">Summer Communications </a>
+ - 🔥 Developer Front-end
  
  - 🌱 Currently I studying React, TypeScript and Sass at <a href="https://programador.onebitcode.com/">OneBitCode </a>
  
