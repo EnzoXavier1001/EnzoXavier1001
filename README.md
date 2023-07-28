@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, I'm Enzo Costa 👋 <br> Welcome to my profile</h1>
 
 ### 🌻 About me:
- - 🔥 Developer Front-end
+ - 🔥 Front-end Developer
  
  - 🌱 Currently I studying React, TypeScript and Sass at <a href="https://programador.onebitcode.com/">OneBitCode </a>
  
