@@ -7,7 +7,7 @@
  
  - 🚀 I love learn English, currently I study English at Wizard
  
- - 👨‍💻 Some of my projects are in my <a href="https://enzoxavier1001.github.io/my-portfolio/">Portfolio </a>
+ - 👨‍💻 Some of my projects are in my <a href="[https://enzoxavier1001.github.io/my-portfolio/](https://startling-puppy-139526.netlify.app/)">Portfolio </a>
  
 ### 👯 My passions:
 - 🎶 Musics (I like listen music electronics)
