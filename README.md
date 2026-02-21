@@ -21,7 +21,7 @@ Front-end Developer focused on building scalable, performant and user-centered w
 ✔ Performance optimization  
 ✔ Responsive & mobile-first development  
 ✔ Design system consistency  
-✔ CMS integrations (Adobe Experience Manager experience)  
+✔ CMS integrations (Adobe Experience Manager and Wordpress)  
 
 ---
 
